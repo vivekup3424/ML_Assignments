@@ -21,4 +21,5 @@ myenv/
 
 # Ignore any other generated files or directories
 __pycache__/
+data
 .DS_Store
